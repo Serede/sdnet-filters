@@ -1,0 +1,6 @@
+[submodule "sdnet/dns"]
+	path = sdnet/dns
+	url = git@github.com:Serede/sdnet-dns.git
+[submodule "sdnet/clienthello"]
+	path = sdnet/clienthello
+	url = git@github.com:Serede/sdnet-clienthello.git
